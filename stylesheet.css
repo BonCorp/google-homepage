@@ -1,0 +1,57 @@
+#header {
+	width: 800;
+	float: right;
+	padding-top: 20px;
+	
+
+}
+
+div {
+	
+	
+	text-align: center;
+	
+	
+}
+
+a {
+	text-decoration: none;
+	padding: 10px;
+}
+
+.middle {
+	height: 400;
+	width: 800;
+	margin: 0 auto;
+	padding-top: 200px;
+
+
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+#textboxdiv {
+	margin: 10px;
+	
+}
+
+#textbox {
+	width: 600px;
+	height: 30px;
+}
+
+a {
+	color: grey;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+div a:nth-child(3){
+	background-color: mediumblue;
+	color: white;
+	padding-right: 20px;
+	font-weight: bold;
+}
